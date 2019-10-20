@@ -1,1 +1,1 @@
-Beginning React Project
+React Project from Udemy course
