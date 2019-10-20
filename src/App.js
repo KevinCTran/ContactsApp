@@ -21,6 +21,12 @@ class App extends Component {
         "name": "Tyler McGinnis",
         "email": "tyler@reacttraining.com",
         "avatarURL": "http://localhost:5001/tyler.jpg"
+      },
+      {
+        "id": "kevin",
+        "name": "Kevin Tran",
+        "email": "kevin@test.com",
+        "avatarURL": ""
       }
     ]
   }
